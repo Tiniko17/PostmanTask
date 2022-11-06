@@ -1,0 +1,1 @@
+link_to_server = 'https://034cdc53-0b75-42e6-b9bb-f4d4899efcbc.mock.pstmn.io/api/activity'
